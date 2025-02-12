@@ -9,6 +9,6 @@ jobs:
 
     steps:
       - name: Say hello
-        run: echo "Hello World!"
+        run: echo "Hello JC! How are you?"
 
 
